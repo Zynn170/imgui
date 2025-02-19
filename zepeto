@@ -1,0 +1,23 @@
+il2cpp:
+0x037a2f08 ┌─ZepetoWorld.WorldController::Update(this = UI Layer (ZepetoWorld.WorldController))
+0x037b0d0c │ ┌─ZepetoWorld.WorldController::OnSetDecorationObject(this = UI Layer (ZepetoWorld.WorldController), sender = "60b486ba734c77608facd25b", decoration = { "Category": "AccessoryEarring", "Item": "CR_663a8db986b4b23c10be0226", "ItemTime": 1733142673.3101149, "Freeze": "CR_663a8db986b4b23c10be0226", "FreezeTime": 1733142673.3101149 }, equip = false, freeze = true)
+0x037b0d0c │ └─ZepetoWorld.WorldController::OnSetDecorationObject
+0x037b0d0c │ ┌─ZepetoWorld.WorldController::OnSetDecorationObject(this = UI Layer (ZepetoWorld.WorldController), sender = "60b486ba734c77608facd25b", decoration = { "Category": "AccessoryNecklace", "Item": "IP_MLB_NECKLACE_1", "ItemTime": 1733142673.3101454 }, equip = true, freeze = false)
+0x037b0d0c │ └─ZepetoWorld.WorldController::OnSetDecorationObject
+0x037b0d0c │ ┌─ZepetoWorld.WorldController::OnSetDecorationObject(this = UI Layer (ZepetoWorld.WorldController), sender = "60b486ba734c77608facd25b", decoration = { "Category": "AccessoryNecklace", "Item": "IP_MLB_NECKLACE_1", "ItemTime": 1733142673.3101454, "Freeze": "IP_MLB_NECKLACE_1", "FreezeTime": 1733142673.3101454 }, equip = false, freeze = true)
+0x037b0d0c │ └─ZepetoWorld.WorldController::OnSetDecorationObject
+0x037b0d0c │ ┌─ZepetoWorld.WorldController::OnSetDecorationObject(this = UI Layer (ZepetoWorld.WorldController), sender = "60b486ba734c77608facd25b", decoration = { "Category": "AccessoryMask", "Item": "CR_62f99f14378c190647764ffe", "ItemTime": 1733142673.3122075 },
+equip = true, freeze = false)
+0x037b0d0c │ └─ZepetoWorld.WorldController::OnSetDecorationObject
+0x037b0d0c │ ┌─ZepetoWorld.WorldController::OnSetDecorationObject(this = UI Layer (ZepetoWorld.WorldController), sender = "60b486ba734c77608facd25b", decoration = { "Category": "AccessoryMask", "Item": "CR_62f99f14378c190647764ffe", "ItemTime": 1733142673.3122075, "Freeze": "CR_62f99f14378c190647764ffe", "FreezeTime": 1733142673.3122075 }, equip = false, freeze = true)
+0x037b0d0c │ └─ZepetoWorld.WorldController::OnSetDecorationObject
+0x037b0d0c │ ┌─ZepetoWorld.WorldController::OnSetDecorationObject(this = UI Layer (ZepetoWorld.WorldController), sender = "60b486ba734c77608facd25b", decoration = { "Category": "AccessoryHeadwear", "ItemTime": 1733142673.3123114 }, equip = true, freeze = false)
+0x037b0d0c │ └─ZepetoWorld.WorldController::OnSetDecorationObject
+0x037b0d0c │ ┌─ZepetoWorld.WorldController::OnSetDecorationObject(this = UI Layer (ZepetoWorld.WorldController), sender = "60b486ba734c77608facd25b", decoration = { "Category": "AccessoryHeadwear", "ItemTime": 1733142673.3123114, "FreezeTime": 1733142673.3123114 }, equip = false, freeze = true)
+0x037b0d0c │ └─ZepetoWorld.WorldController::OnSetDecorationObject
+0x037b0d0c │ ┌─ZepetoWorld.WorldController::OnSetDecorationObject(this = UI Layer (ZepetoWorld.WorldController), sender = "60b486ba734c77608facd25b", decoration = { "Category": "AccessoryBag", "ItemTime": 1733142673.3126636 }, equip = true, freeze = false)
+0x037b0d0c │ └─ZepetoWorld.WorldController::OnSetDecorationObject
+0x037b0d0c │ ┌─ZepetoWorld.WorldController::OnSetDecorationObject(this = UI Layer (ZepetoWorld.WorldController), sender = "60b486ba734c77608facd25b", decoration = { "Category": "AccessoryBag", "ItemTime": 1733142673.3126636, "FreezeTime": 1733142673.3126636 }, equip = false, freeze = true)
+0x037b0d0c │ └─ZepetoWorld.WorldController::OnSetDecorationObject
+0x037b0d0c │ ┌─ZepetoWorld.WorldController::OnSetDecorationObject(this = UI Layer (ZepetoWorld.WorldController), sender = "60b486ba734c77608facd25b", decoration = { "Category": "AccessoryRing", "Item": "IP_AESPA_RING_1", "ItemTime": 1733142673.312705 }, equip = true, freeze = false)
+0x037b0d0c │ └─ZepetoWorld.WorldController::OnSetDecorationObject
